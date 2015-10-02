@@ -7,7 +7,7 @@
 		<groupId>net.sulea.cristian</groupId>
 		<artifactId>jatoo</artifactId>
 		<relativePath>../../jatoo/jatoo/pom.xml</relativePath>
-		<version>2.3-SNAPSHOT</version>
+		<version>3.0</version>
 	</parent>
 
 	<artifactId>maven-skin-site-landing-page</artifactId>
